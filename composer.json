@@ -3,13 +3,13 @@
     "type": "library",
     "description": "phpi for PHP 5.3",
     "keywords": ["log","logging", "phpi"],
-    "homepage": "",
+    "homepage": "http://www.github.com",
     "license": "MIT",
     "authors": [
         {
             "name": "frank",
-            "email": "frankmaster@outlookc.om",
-            "homepage": "",
+            "email": "frankmaster@outlook.om",
+            "homepage": "http://github.com",
             "role": "Developer"
         }
     ],
